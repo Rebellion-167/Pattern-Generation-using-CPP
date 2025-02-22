@@ -21,6 +21,11 @@ The patterns are:
                 <br>
                 <sub><b>Pattern3</b></sub>
             </td>
+            <td align = "center">
+                <img src = "https://static.takeuforward.org/wp/uploads/2022/08/P4.png">
+                <br>
+                <sub><b>Pattern4</b></sub>
+            </td>
         </tr>
     </tbody>
 </table>
