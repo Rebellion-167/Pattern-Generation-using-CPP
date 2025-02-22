@@ -37,6 +37,11 @@ The patterns are:
                 <img src = "https://static.takeuforward.org/wp/uploads/2022/08/P6.png">
                 <br>
                 <sub><b>Pattern6</b></sub>
+            </td>
+            <td align = "center">
+                <img src = "https://static.takeuforward.org/wp/uploads/2022/08/P7.png">
+                <br>
+                <sub><b>Pattern7</b></sub>
             </td> 
         </tr>
     </tbody>
