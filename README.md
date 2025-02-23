@@ -75,10 +75,15 @@ The patterns are:
                 <br>
                 <sub><b>Pattern13</b></sub>
             </td> 
-             <td align = "center">
+            <td align = "center">
                 <img src = "https://static.takeuforward.org/wp/uploads/2022/08/P14.png">
                 <br>
                 <sub><b>Pattern14</b></sub>
+            </td>
+            <td align = "center">
+                <img src = "https://static.takeuforward.org/wp/uploads/2022/08/P15.png">
+                <br>
+                <sub><b>Pattern15</b></sub>
             </td> 
         </tr>
     </tbody>
