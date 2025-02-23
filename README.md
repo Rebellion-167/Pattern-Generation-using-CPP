@@ -86,5 +86,12 @@ The patterns are:
                 <sub><b>Pattern15</b></sub>
             </td> 
         </tr>
+        <tr>
+            <td align = "center">
+                <img src = "https://static.takeuforward.org/wp/uploads/2022/08/P16.png">
+                <br>
+                <sub><b>Pattern16</b></sub>
+            </td>
+        </tr>
     </tbody>
 </table>
